@@ -2,7 +2,7 @@
 ## What was your goal for the past week?
 Install the basic packages needed; updating raspbian packages and installing RetroPie scripts/packages for installation.
 ## Did you accomplish last week’s goal? Why/why not?
-Yes, I have installed the fundamental packages needed to install RetroPie through the command line.
+Yes, I have installed the fundamental packages needed to install RetroPie through the command line. 
 ## What did you learn this week?
 This week, I have learned about the different methods to install RetroPie. You can install it as an OS or as a "overlay" built onto Raspbian. It can be run from the Pixel Desktop with the command, emulationstation and return to pixel enviroment with command, startx.
 ## What is your goal for next week?
