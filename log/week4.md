@@ -3,6 +3,7 @@
 Try again to install the PS4 controller drivers.
 ## Did you accomplish last week’s goal? Why/why not?
 I did not accomplish this yet but am currently working on it. Upon researching for installation guides, I learned that a wireless adapter can be used if necessary -to connect with the ps4 controller atleast.
+https://www.youtube.com/watch?v=XTeJn8gbkq8&feature=youtu.be
 ## What did you learn this week?
 Sony has a wireless adapter that can be bought to pair with the controller wirelessly if needed.
 ## What is your goal for next week?
